@@ -38,12 +38,8 @@ https://youtu.be/9RixwHjd1k8
 - 보스 공격 경고 시스템 구현
 - 보스 처치 시 2페이즈 진입
 
-![Untitled (3)](https://github.com/kdm6859/1945TeamProject/assets/64892955/75c3be79-83f4-450b-bae5-c77dda864ae7)
-
-![Untitled (4)](https://github.com/kdm6859/1945TeamProject/assets/64892955/413f10c9-97da-4caf-a4a6-39e70f98b092)
+![Untitled (3)](https://github.com/kdm6859/1945TeamProject/assets/64892955/75c3be79-83f4-450b-bae5-c77dda864ae7) ![Untitled (4)](https://github.com/kdm6859/1945TeamProject/assets/64892955/413f10c9-97da-4caf-a4a6-39e70f98b092)
 
 ![Untitled (5)](https://github.com/kdm6859/1945TeamProject/assets/64892955/047665a7-a7fb-4c4e-9304-3552d3324354)
 
-![Untitled (6)](https://github.com/kdm6859/1945TeamProject/assets/64892955/2bc77143-635e-4e72-bf6d-0b0eb855a8a2)
-
-![Untitled (7)](https://github.com/kdm6859/1945TeamProject/assets/64892955/046f6639-eb6d-4232-b8e7-6f147b71dc37)
+![Untitled (6)](https://github.com/kdm6859/1945TeamProject/assets/64892955/2bc77143-635e-4e72-bf6d-0b0eb855a8a2) ![Untitled (7)](https://github.com/kdm6859/1945TeamProject/assets/64892955/046f6639-eb6d-4232-b8e7-6f147b71dc37)
